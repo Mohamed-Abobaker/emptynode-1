@@ -16,14 +16,7 @@ You may need to install node if you don't have it: https://nodejs.org/en/downloa
 
 Before running the application locally, run `npm install` from the terminal to install any dependent packages. To run the application use `node app.js` from the terminal. In your browser, open http://localhost:3000
 
-**Pointers**
+**My Approach**
 
-The component is pretty simple. What we would like to see is your approach and clean easy to read coding.
+I have approached and completed this task without using any external libraries as requested, and simply worked on it using HTML, CCS and Javascript. By using CSS flex display and the use of media queries I have made it so that the page is acts in a responsive manner for desktop / mobile. The button was created by enveloping a button tag within a hyperlink tag and decorated with CSS, and also made responsive int terms of size.
 
- - Make regular commits along the way to show working 
- - Use the README.md markdown file to document your approach
- - The stylesheet is already added to the project but add your own javascript file to the project 
- - Styling doesn't have to be the same, use your own imagination if you like
- - Think about media queries to create the responsive effect between desktop/mobile
- - Make the button navigate to a different page
- - Stick with standard frameworks (i.e. plain javascript and html)
